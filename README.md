@@ -21,41 +21,6 @@
 
 ---
 
-## 📊 Example Output
-
-```text
-======================================================================
-VALIDATION RESULTS
-======================================================================
-
-URL: http://example.onion
-Status: REACHABLE
-Message: Reachable with HTTP (HTTP 200)
-
-Details:
-Tor Port: 9150
-Protocol: HTTP
-HTTP Status: 200
-Response Time: 0.76s
-
-Page Information:
-Title: Example Onion Service
-Description: Sample hidden service
-
-Page Statistics:
-Links: 15
-Images: 3
-Scripts: 2
-Forms: 1
-
-Attempts:
-FAILED HTTPS: Connection error
-SUCCESS HTTP: HTTP 200 (0.76s)
-======================================================================
-```
-
----
-
 ## 🚀 Installation
 
 ### Prerequisites

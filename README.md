@@ -287,9 +287,9 @@ This tool is intended for legitimate security research, accessibility testing, a
 
 ## 📧 Contact
 
-**Author:** davosilva
-
-**GitHub:** https://github.com/davosilva
+- **Author**: [David Silva]
+- **GitHub**: [@davosilva](https://github.com/davosilva)
+- **Website**: [zioNETMX](https://www.zionet.com.mx)
 
 ---
 
